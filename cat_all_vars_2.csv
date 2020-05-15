@@ -1,0 +1,470 @@
+Var,Serie,Nivel,Grupo,Descripción,COD_BIE,COD_VAR
+IGAE,TOTAL,1,NA,Total Actividad Económica Serie desestacionalizada,496216,IGAE_TOTAL
+IGAE,GA1,2,TOTAL,Total Actividades Primarias Serie desestacionalizada,496223,IGAE_GA1
+IGAE,GA2,2,TOTAL,Total Actividades Secundarias Serie desestacionalizada,496230,IGAE_GA2
+IGAE,S21,3,GA2,Total Mineria Serie desestacionalizada,496237,IGAE_S21
+IGAE,S22,3,GA2,Total Energeticos Serie desestacionalizada,496244,IGAE_S22
+IGAE,S23,3,GA2,Total Construccion Serie desestacionalizada,496251,IGAE_S23
+IGAE,S31-33,3,GA2,Total Industrias Manuf Serie desestacionalizada,496258,IGAE_S31-33
+IGAE,GA3,2,TOTAL,Total Actividades Terciarias  Serie desestacionalizada,496265,IGAE_GA3
+IGAE,S43,3,GA3,Total Comercio por mayor Serie desestacionalizada,496272,IGAE_S43
+IGAE,S46,3,GA3,Total Comercio por menor Serie desestacionalizada,515886,IGAE_S46
+IGAE,S48-49-51,3,GA3,"Total Transportes, correos, alm  Serie desestacionalizada",496279,IGAE_S48-49-51
+IGAE,S52-53,3,GA3,Total Serv Fin Serie desestacionalizada,496286,IGAE_S52-53
+IGAE,S54-55,3,GA3,Total Serv Prof Serie desestacionalizada,496293,IGAE_S54-55
+IGAE,S61-62,3,GA3,Total Serv Educ Serie desestacionalizada,496300,IGAE_S61-62
+IGAE,S71-81,3,GA3,Total Serv Esparc Serie desestacionalizada,496307,IGAE_S71-81
+IGAE,S72,3,GA3,Total Serv Aloj Serie desestacionalizada,496314,IGAE_S72
+IGAE,S93,3,GA3,Total Serv Gob Serie desestacionalizada,496321,IGAE_S93
+SIC,IC,1,NA,Indicador Coincidente Componente cíclico,214293,SIC_IC
+SIC,IGAE_CC,2,IC,Indicador global de la actividad economica Componente cíclico,214295,SIC_IGAE_CC
+SIC,IAI_CC,2,IC,Indice de Actividad Industrial Componente cíclico,214297,SIC_IAI_CC
+SIC,ING_BYS_MENUD_CC,2,IC,Indice de ingresos por suministro de bienes y servicios al por menor Componente cíclico,214299,SIC_ING_BYS_MENUD_CC
+SIC,IMSS_CC,2,IC,Asegurados trabajadores permanentes IMSS Componente cíclico,214301,SIC_IMSS_CC
+SIC,TDU_CC,2,IC,Tasa de desocupación urbana Componente cíclico,214303,SIC_TDU_CC
+SIC,IMP_CC,2,IC,Importaciones totales Componente cíclico,214305,SIC_IMP_CC
+SIC,IA,1,NA,Indicador Adelantado Componente cíclico,214307,SIC_IA
+SIC,EMP_MANUF_CC,2,IA,Tendencia del empleo en las manufacturas Componente cíclico,214309,SIC_EMP_MANUF_CC
+SIC,ICC_CC,2,IA,Indicador de confianza empresarial Componente cíclico,214311,SIC_ICC_CC
+SIC,IPC_CC,2,IA,Indice de precios y cotizaciones BMV Componente cíclico,214313,SIC_IPC_CC
+SIC,TCR_CC,2,IA,Tipo de cambio real bilateral MX-EEUU Componente cíclico,214315,SIC_TCR_CC
+SIC,TIIE_CC,2,IA,Tasa de interés interbancaria de equilibrio Componente cíclico,214317,SIC_TIIE_CC
+SIC,SP_CC,2,IA,Indice S&P 500 Componente cíclico,214319,SIC_SP_CC
+SICCA,COIN,1,NA,Indicador coincidente indice desestacionalizado,436139,SICCA_COIN
+SICCA,AD,1,NA,Indicador adelantado indice desestacionalizado,436141,SICCA_AD
+CONSUMO,TOTAL,1,NA,Indicador mensual del consumo privado en el mercdo interior serie desestacionalizada,497635,CONSUMO_TOTAL
+CONSUMO,BYS_NAL,2,TOTAL,Bienes y Servicios de origen nacional serie desestacionalizada,497642,CONSUMO_BYS_NAL
+CONSUMO,BIENES,3,BYS_NAL,Bienes de origen nacional serie desestacionalizada,497649,CONSUMO_BIENES
+CONSUMO,SERV,3,BYS_NAL,Servicios de origen nacional serie desestacionalizada,497656,CONSUMO_SERV
+CONSUMO,IMPORT,2,TOTAL,Bienes Importados serie desestacionalizada,497663,CONSUMO_IMPORT
+AI,TOTAL,1,NA,Total Actividad industrial serie desestacionalizada,496464,AI_TOTAL
+AI,S21,2,TOTAL,Total Mineria serie desestacionalizada,496471,AI_S21
+AI,S211,3,S21,Extraccion de Petroleo y Gas serie desestacionalizada,496478,AI_S211
+AI,S212,3,S21,"Minería de minerales metálicos y no metálicos, excepto petróleo y gas serie desestacionalizada",496485,AI_S212
+AI,S213,3,S21,Servicios relacionados con la minería serie desestacionalizada,496492,AI_S213
+AI,S22,2,TOTAL,Total Energéticos serie desestacionalizada,496499,AI_S22
+AI,S221,3,S22,"Generación, transmisión y distribución de energía eléctrica serie desestacionalizada",496506,AI_S221
+AI,S222,3,S22,Suministro de agua y suministro de gas por ductos al consumidor final serie desestacionalizada,496513,AI_S222
+AI,S23,2,TOTAL,Total Construcción serie desestacionalizada,496520,AI_S23
+AI,S236,3,S23,Edificación serie desestacionalizada,496527,AI_S236
+AI,S237,3,S23,Construcción de obras de ingeniería civil serie desestacionalizada,496534,AI_S237
+AI,S238,3,S23,Trabajos especializados para la construcción serie desestacionalizada,496541,AI_S238
+AI,S31-33,2,TOTAL,Total   ,496548,AI_S31-33
+AI,S311,3,S31-33,Industria alimentaria   ,496555,AI_S311
+AI,S312,3,S31-33,Industria de las bebidas y del tabaco   ,496562,AI_S312
+AI,S313,3,S31-33,Fabricación de insumos textiles y acabado de textiles   ,496569,AI_S313
+AI,S314,3,S31-33,"Fabricación de productos textiles, excepto prendas de vestir   ",496576,AI_S314
+AI,S315,3,S31-33,Fabricación de prendas de vestir   ,496583,AI_S315
+AI,S316,3,S31-33,"Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos   ",496590,AI_S316
+AI,S321,3,S31-33,Industria de la madera   ,496597,AI_S321
+AI,S322,3,S31-33,Industria del papel   ,496604,AI_S322
+AI,S323,3,S31-33,Impresión e industrias conexas   ,496611,AI_S323
+AI,S324,3,S31-33,Fabricación de productos derivados del petróleo y del carbón   ,496618,AI_S324
+AI,S325,3,S31-33,Industria química   ,496625,AI_S325
+AI,S326,3,S31-33,Industria del plástico y del hule   ,496632,AI_S326
+AI,S327,3,S31-33,Fabricación de productos a base de minerales no metálicos   ,496639,AI_S327
+AI,S331,3,S31-33,Industrias metálicas básicas   ,496646,AI_S331
+AI,S332,3,S31-33,Fabricación de productos metálicos   ,496653,AI_S332
+AI,S333,3,S31-33,Fabricación de maquinaria y equipo   ,496660,AI_S333
+AI,S334,3,S31-33,"Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos   ",496667,AI_S334
+AI,S335,3,S31-33,"Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica   ",496674,AI_S335
+AI,S336,3,S31-33,Fabricación de equipo de transporte   ,496681,AI_S336
+AI,S337,3,S31-33,"Fabricación de muebles, colchones y persianas   ",496688,AI_S337
+AI,S339,3,S31-33,Otras industrias manufactureras  ,496695,AI_S339
+INVERSION,TOTAL,1,NA,Inversión fija bruta serie desestacionalizada,496746,INVERSION_TOTAL
+INVERSION,MAQYEQ,2,TOTAL,Maquinaria y Equipo Total serie desestacionalizada,496753,INVERSION_MAQYEQ
+INVERSION,MAQYEQ_NAL,3,MAQYEQ,Maquinaria y Equipo Nacional serie desestacionalizada,496760,INVERSION_MAQYEQ_NAL
+INVERSION,MAQYEQ_NAL_EQTRANSP,4,MAQYEQ_NAL,Equipo de Transporte nacional serie desestacionalizada,496767,INVERSION_MAQYEQ_NAL_EQTRANSP
+INVERSION,MAQYEQ_NAL_MAQYEQ,4,MAQYEQ_NAL,"Maquinaria, Equipo y otros bienes nacional serie desestacionalizada",496774,INVERSION_MAQYEQ_NAL_MAQYEQ
+INVERSION,MAQYEQ_IMP,3,MAQYEQ,Maquinaria y Equipo Importada serie desestacionalizada,496781,INVERSION_MAQYEQ_IMP
+INVERSION,MAQYEQ_IMP_EQTRANSP,4,MAQYEQ_IMP,Equipo de Transporte importado serie desestacionalizada,496788,INVERSION_MAQYEQ_IMP_EQTRANSP
+INVERSION,MAQYEQ_IMP_MAQYEQ,4,MAQYEQ_IMP,"Maquinaria, Equipo y otros bienes importado serie desestacionalizada",496795,INVERSION_MAQYEQ_IMP_MAQYEQ
+INVERSION,CONS,2,TOTAL,Construcción Total serie desestacionalizada,496802,INVERSION_CONS
+INVERSION,CONS_RESID,3,CONS,Construcción Residencial serie desestacionalizada,496809,INVERSION_CONS_RESID
+INVERSION,CONS_NORESID,3,CONS,Construcción No Residencial serie desestacionalizada,496816,INVERSION_CONS_NORESID
+MINERIA,TOTAL,1,NA,Industrial minerometalúrgica serie desestacionalizada,661524,MINERIA_TOTAL
+EMOE,CONS_IAT,1,NA,Indicador agregado de tendencia construcción serie desestacionalizada,631272,EMOE_CONS_IAT
+EMOE,CONS_CONTRAT,3,CONS_IAT,Obras ejecutadas como contratista principal   serie desestacionalizada,631279,EMOE_CONS_CONTRAT
+EMOE,CONS_SUBCON,3,CONS_IAT,Obras ejecutadas como subcontratista   serie desestacionalizada,631286,EMOE_CONS_SUBCON
+EMOE,CONS_TOTAL,2,CONS_IAT,Total de contratos y subcontratos   serie desestacionalizada,631293,EMOE_CONS_TOTAL
+EMOE,CONS_PO,2,CONS_IAT,Personal ocupado total  serie desestacionalizada,631300,EMOE_CONS_PO
+EMOE,CONS_ICE,1,NA,Indicador de confianza empresarial construcción serie desestacionalizada,631307,EMOE_CONS_ICE
+EMOE,CONS_MOM_INVER,2,CONS_ICE,Momento adecuado para invertir   serie desestacionalizada,631314,EMOE_CONS_MOM_INVER
+EMOE,CONS_SIT_PRES_PAIS,2,CONS_ICE,Situación económica presente del país   serie desestacionalizada,631321,EMOE_CONS_SIT_PRES_PAIS
+EMOE,CONS_SIT_FUT_PAIS,2,CONS_ICE,Situación económica futura del país   serie desestacionalizada,631328,EMOE_CONS_SIT_FUT_PAIS
+EMOE,CONS_SIT_PRES_EMPR,2,CONS_ICE,Situación económica presente de la empresa   serie desestacionalizada,631335,EMOE_CONS_SIT_PRES_EMPR
+EMOE,CONS_SIT_FUT_EMPR,2,CONS_ICE,Situación económica futura de la empresa   serie desestacionalizada,631342,EMOE_CONS_SIT_FUT_EMPR
+EMOE,MANUF_IAT,1,NA,Indicador agregado de tendencia del sector industrias manufactureras   serie desestacionalizada,631525,EMOE_MANUF_IAT
+EMOE,MANUF_PROD,2,MANUF_IAT,Producción   serie desestacionalizada,631532,EMOE_MANUF_PROD
+EMOE,MANUF_CAP_UT,2,MANUF_IAT,Capacidad de planta utilizada   serie desestacionalizada,631539,EMOE_MANUF_CAP_UT
+EMOE,MANUF_DEM_NAL,2,MANUF_IAT,Demanda nacional de productos   serie desestacionalizada,631546,EMOE_MANUF_DEM_NAL
+EMOE,MANUF_EXP,2,MANUF_IAT,Exportaciones   serie desestacionalizada,631553,EMOE_MANUF_EXP
+EMOE,MANUF_PO,2,MANUF_IAT,Personal ocupado total   serie desestacionalizada,631560,EMOE_MANUF_PO
+EMOE,MANUF_OTR_INVER_PYE,1,NA,Otros indicadores manufacturas Inversión en planta y equipo    serie desestacionalizada,631567,EMOE_MANUF_OTR_INVER_PYE
+EMOE,MANUF_INVENT_PT,1,NA,Otros indicadores manufacturas Inventarios de productos terminados   serie desestacionalizada,631574,EMOE_MANUF_INVENT_PT
+EMOE,MANUF_PV,1,NA,Otros indicadores manufacturas Precios de venta   serie desestacionalizada,631581,EMOE_MANUF_PV
+EMOE,MANUF_PI,1,NA,Otros indicadores manufacturas Precios de insumos  serie desestacionalizada,631588,EMOE_MANUF_PI
+EMOE,MANUF_ICE,1,NA,Indicador de confianza empresarial sector industrias manufactureras   serie desestacionalizada,631595,EMOE_MANUF_ICE
+EMOE,MANUF_MOM_INVER,2,MANUF_ICE,Momento adecuado para invertir   serie desestacionalizada,631602,EMOE_MANUF_MOM_INVER
+EMOE,MANUF_SIT_PRES_PAIS,2,MANUF_ICE,Situación económica presente del país   serie desestacionalizada,631609,EMOE_MANUF_SIT_PRES_PAIS
+EMOE,MANUF_SIT_FUT_PAIS,2,MANUF_ICE,Situación económica futura del país   serie desestacionalizada,631616,EMOE_MANUF_SIT_FUT_PAIS
+EMOE,MANUF_SIT_PRES_EMPR,2,MANUF_ICE,Situación económica presente de la empresa   serie desestacionalizada,631623,EMOE_MANUF_SIT_PRES_EMPR
+EMOE,MANUF_SIT_FUT_EMPR,2,MANUF_ICE,Situación económica futura de la empresa   serie desestacionalizada,631630,EMOE_MANUF_SIT_FUT_EMPR
+EMOE,IPM,1,NA,Indicador de pedidos manufactureros   serie desestacionalizada,631637,EMOE_IPM
+EMOE,IPM_VOL_PED_ESP,2,IPM,Volumen esperado de pedidos   serie desestacionalizada,631644,EMOE_IPM_VOL_PED_ESP
+EMOE,IPM_VOL_PROD_ESP,2,IPM,Volumen esperado de producción   serie desestacionalizada,631651,EMOE_IPM_VOL_PROD_ESP
+EMOE,IPM_PO_ESP,2,IPM,Niveles esperados de personal ocupado total   serie desestacionalizada,631658,EMOE_IPM_PO_ESP
+EMOE,IPM_INSUM_ESP,2,IPM,Entrega esperada de insumos por parte de los proveedores   serie desestacionalizada,631665,EMOE_IPM_INSUM_ESP
+EMOE,IPM_INVENT_INSUM,2,IPM,Inventarios de insumos serie desestacionalizada,631672,EMOE_IPM_INVENT_INSUM
+EMOE,COMER_IAT,1,NA,Indicador agregado de tendencia del sector comercio   serie desestacionalizada,631691,EMOE_COMER_IAT
+EMOE,COMER_VN,2,COMER_IAT,Ventas netas   serie desestacionalizada,631698,EMOE_COMER_VN
+EMOE,COMER_ING,2,COMER_IAT,Ingresos por consignación y/o comisión   serie desestacionalizada,631705,EMOE_COMER_ING
+EMOE,COMER_COMPRAS,2,COMER_IAT,Compras netas   serie desestacionalizada,631712,EMOE_COMER_COMPRAS
+EMOE,COMER_INVENT,2,COMER_IAT,Inventario de mercancías   serie desestacionalizada,631719,EMOE_COMER_INVENT
+EMOE,COMER_PO,2,COMER_IAT,Personal ocupado total   serie desestacionalizada,631726,EMOE_COMER_PO
+EMOE,COMER_ICE,1,NA,Indicador de confianza empresarial   serie desestacionalizada,631733,EMOE_COMER_ICE
+EMOE,COMER_MOM_INVER,2,COMER_ICE,Momento adecuado para invertir   serie desestacionalizada,631740,EMOE_COMER_MOM_INVER
+EMOE,COMER_SIT_PRES_PAIS,2,COMER_ICE,Situación económica presente del país   serie desestacionalizada,631747,EMOE_COMER_SIT_PRES_PAIS
+EMOE,COMER_SIT_FUT_PAIS,2,COMER_ICE,Situación económica futura del país   serie desestacionalizada,631754,EMOE_COMER_SIT_FUT_PAIS
+EMOE,COMER_SIT_PRES_EMPR,2,COMER_ICE,Situación económica presente de la empresa   serie desestacionalizada,631761,EMOE_COMER_SIT_PRES_EMPR
+EMOE,COMER_SIT_FUT_EMPR,2,COMER_ICE,Situación económica futura de la empresa  serie desestacionalizada,631768,EMOE_COMER_SIT_FUT_EMPR
+EMIM,PO,1,NA,Personal ocupado total,652372,EMIM_PO
+EMIM,PO_311,2,PO_SECT,311 Industria alimentaria   ,652379,EMIM_PO_311
+EMIM,PO_312,2,PO_SECT,312 Industria de las bebidas y del tabaco   ,652386,EMIM_PO_312
+EMIM,PO_313,2,PO_SECT,313 Fabricación de insumos textiles y acabado de textiles   ,652393,EMIM_PO_313
+EMIM,PO_314,2,PO_SECT,"314 Fabricación de productos textiles, excepto prendas de vestir   ",652400,EMIM_PO_314
+EMIM,PO_315,2,PO_SECT,315 Fabricación de prendas de vestir   ,652407,EMIM_PO_315
+EMIM,PO_316,2,PO_SECT,"316 Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos   ",652414,EMIM_PO_316
+EMIM,PO_321,2,PO_SECT,321 Industria de la madera   ,652421,EMIM_PO_321
+EMIM,PO_322,2,PO_SECT,322 Industria del papel   ,652428,EMIM_PO_322
+EMIM,PO_323,2,PO_SECT,323 Impresión e industrias conexas   ,652435,EMIM_PO_323
+EMIM,PO_324,2,PO_SECT,324 Fabricación de productos derivados del petróleo y del carbón   ,652442,EMIM_PO_324
+EMIM,PO_325,2,PO_SECT,325 Industria química   ,652449,EMIM_PO_325
+EMIM,PO_326,2,PO_SECT,326 Industria del plástico y del hule   ,652456,EMIM_PO_326
+EMIM,PO_327,2,PO_SECT,327 Fabricación de productos a base de minerales no metálicos   ,652463,EMIM_PO_327
+EMIM,PO_331,2,PO_SECT,331 Industrias metálicas básicas   ,652470,EMIM_PO_331
+EMIM,PO_332,2,PO_SECT,332 Fabricación de productos metálicos   ,652477,EMIM_PO_332
+EMIM,PO_333,2,PO_SECT,333 Fabricación de maquinaria y equipo   ,652484,EMIM_PO_333
+EMIM,PO_334,2,PO_SECT,"334 Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos   ",652491,EMIM_PO_334
+EMIM,PO_335,2,PO_SECT,"335 Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica   ",652498,EMIM_PO_335
+EMIM,PO_336,2,PO_SECT,336 Fabricación de equipo de transporte   ,652505,EMIM_PO_336
+EMIM,PO_337,2,PO_SECT,"337 Fabricación de muebles, colchones y persianas   ",652512,EMIM_PO_337
+EMIM,PO_339,2,PO_SECT,339 Otras industrias manufactureras   ,652519,EMIM_PO_339
+EMIM,PO_OBR,2,PO_TIPO,Obreros,652526,EMIM_PO_OBR
+EMIM,PO_EMPL,2,PO_TIPO,Empleados,652533,EMIM_PO_EMPL
+EMIM,HHT,1,PO,Horas hombre trabajadas   ,652540,EMIM_HHT
+EMIM,HHT_311,2,HHT_SECT,311 Industria alimentaria   ,652547,EMIM_HHT_311
+EMIM,HHT_312,2,HHT_SECT,312 Industria de las bebidas y del tabaco   ,652554,EMIM_HHT_312
+EMIM,HHT_313,2,HHT_SECT,313 Fabricación de insumos textiles y acabado de textiles   ,652561,EMIM_HHT_313
+EMIM,HHT_314,2,HHT_SECT,"314 Fabricación de productos textiles, excepto prendas de vestir   ",652568,EMIM_HHT_314
+EMIM,HHT_315,2,HHT_SECT,315 Fabricación de prendas de vestir   ,652575,EMIM_HHT_315
+EMIM,HHT_316,2,HHT_SECT,"316 Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos   ",652582,EMIM_HHT_316
+EMIM,HHT_321,2,HHT_SECT,321 Industria de la madera   ,652589,EMIM_HHT_321
+EMIM,HHT_322,2,HHT_SECT,322 Industria del papel   ,652596,EMIM_HHT_322
+EMIM,HHT_323,2,HHT_SECT,323 Impresión e industrias conexas   ,652603,EMIM_HHT_323
+EMIM,HHT_324,2,HHT_SECT,324 Fabricación de productos derivados del petróleo y del carbón   ,652610,EMIM_HHT_324
+EMIM,HHT_325,2,HHT_SECT,325 Industria química   ,652617,EMIM_HHT_325
+EMIM,HHT_326,2,HHT_SECT,326 Industria del plástico y del hule   ,652624,EMIM_HHT_326
+EMIM,HHT_327,2,HHT_SECT,327 Fabricación de productos a base de minerales no metálicos   ,652631,EMIM_HHT_327
+EMIM,HHT_331,2,HHT_SECT,331 Industrias metálicas básicas   ,652638,EMIM_HHT_331
+EMIM,HHT_332,2,HHT_SECT,332 Fabricación de productos metálicos   ,652645,EMIM_HHT_332
+EMIM,HHT_333,2,HHT_SECT,333 Fabricación de maquinaria y equipo   ,652652,EMIM_HHT_333
+EMIM,HHT_334,2,HHT_SECT,"334 Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos   ",652659,EMIM_HHT_334
+EMIM,HHT_335,2,HHT_SECT,"335 Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica   ",652666,EMIM_HHT_335
+EMIM,HHT_336,2,HHT_SECT,336 Fabricación de equipo de transporte   ,652673,EMIM_HHT_336
+EMIM,HHT_337,2,HHT_SECT,"337 Fabricación de muebles, colchones y persianas   ",652680,EMIM_HHT_337
+EMIM,HHT_339,2,HHT_SECT,339 Otras industrias manufactureras   ,652687,EMIM_HHT_339
+EMIM,HHT_OBR,2,HHT_TIPO,Obreros,652694,EMIM_HHT_OBR
+EMIM,HHT_EMPL,2,HHT_TIPO,Empleados,652701,EMIM_HHT_EMPL
+EMIM,REM_MED,1,NA,Remuneraciones medias reales totales   ,652708,EMIM_REM_MED
+EMIM,REM_MED_311,2,RM_SECT,311 Industria alimentaria   ,652715,EMIM_REM_MED_311
+EMIM,REM_MED_312,2,RM_SECT,312 Industria de las bebidas y del tabaco   ,652722,EMIM_REM_MED_312
+EMIM,REM_MED_313,2,RM_SECT,313 Fabricación de insumos textiles y acabado de textiles   ,652729,EMIM_REM_MED_313
+EMIM,REM_MED_314,2,RM_SECT,"314 Fabricación de productos textiles, excepto prendas de vestir   ",652736,EMIM_REM_MED_314
+EMIM,REM_MED_315,2,RM_SECT,315 Fabricación de prendas de vestir   ,652743,EMIM_REM_MED_315
+EMIM,REM_MED_316,2,RM_SECT,"316 Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos   ",652750,EMIM_REM_MED_316
+EMIM,REM_MED_321,2,RM_SECT,321 Industria de la madera   ,652757,EMIM_REM_MED_321
+EMIM,REM_MED_322,2,RM_SECT,322 Industria del papel   ,652764,EMIM_REM_MED_322
+EMIM,REM_MED_323,2,RM_SECT,323 Impresión e industrias conexas   ,652771,EMIM_REM_MED_323
+EMIM,REM_MED_324,2,RM_SECT,324 Fabricación de productos derivados del petróleo y del carbón   ,652778,EMIM_REM_MED_324
+EMIM,REM_MED_325,2,RM_SECT,325 Industria química   ,652785,EMIM_REM_MED_325
+EMIM,REM_MED_326,2,RM_SECT,326 Industria del plástico y del hule   ,652792,EMIM_REM_MED_326
+EMIM,REM_MED_327,2,RM_SECT,327 Fabricación de productos a base de minerales no metálicos   ,652799,EMIM_REM_MED_327
+EMIM,REM_MED_331,2,RM_SECT,331 Industrias metálicas básicas   ,652806,EMIM_REM_MED_331
+EMIM,REM_MED_332,2,RM_SECT,332 Fabricación de productos metálicos   ,652813,EMIM_REM_MED_332
+EMIM,REM_MED_333,2,RM_SECT,333 Fabricación de maquinaria y equipo   ,652820,EMIM_REM_MED_333
+EMIM,REM_MED_334,2,RM_SECT,"334 Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos   ",652827,EMIM_REM_MED_334
+EMIM,REM_MED_335,2,RM_SECT,"335 Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica   ",652834,EMIM_REM_MED_335
+EMIM,REM_MED_336,2,RM_SECT,336 Fabricación de equipo de transporte   ,652841,EMIM_REM_MED_336
+EMIM,REM_MED_337,2,RM_SECT,"337 Fabricación de muebles, colchones y persianas   ",652848,EMIM_REM_MED_337
+EMIM,REM_MED_339,2,RM_SECT,339 Otras industrias manufactureras   ,652855,EMIM_REM_MED_339
+EMIM,SAL,1,NA,Salarios   ,652862,EMIM_SAL
+EMIM,SUEL,1,NA,Sueldos   ,652869,EMIM_SUEL
+EMIM,PREST_SOC,1,NA,Prestaciones sociales   ,652876,EMIM_PREST_SOC
+INMEX,PO_TOTAL,1,NA,Personal Ocupado Total Establecimientos INMEX serie desestacionalizada,454527,INMEX_PO_TOTAL
+INMEX,PO_MANUF,2,PO_TOTAL,Personal Ocupado Manufactureros Establecimientos INMEX serie desestacionalizada,454534,INMEX_PO_MANUF
+INMEX,PO_NOMANUF,2,PO_TOTAL,Personal Ocupado No Manufactureros Establecimientos INMEX serie desestacionalizada,454541,INMEX_PO_NOMANUF
+INMEX,REM_TOTAL,1,NA,Remuneraciones reales al personal ocupado total serie desestacionalizada,454548,INMEX_REM_TOTAL
+INMEX,REM_MANUF,2,REM_TOTAL,Remuneraciones reales al personal ocupado manufactureros serie desestacionalizada,454555,INMEX_REM_MANUF
+INMEX,REM_NOMANUF,2,REM_TOTAL,Remuneraciones reales al personal ocupado no manufactureros serie desestacionalizada,454562,INMEX_REM_NOMANUF
+INMEX,HT_TOTAL,1,NA,Horas trabajadas total serie desestacionalizada,454569,INMEX_HT_TOTAL
+INMEX,HT_MANUF,2,HT_TOTAL,Horas trabajadas manufactureros serie desestacionalizada,454576,INMEX_HT_MANUF
+INMEX,HT_NOMANUF,2,HT_TOTAL,Horas trabajadas no manufactureros serie desestacionalizada,454583,INMEX_HT_NOMANUF
+ENEC,PROD,1,NA,Valor de la producción en términos reales serie desestacionalizada,661337,ENEC_PROD
+ENEC,PROD_EDIF,2,PROD,Edificación valor de la producción serie desestacionalizada,661344,ENEC_PROD_EDIF
+ENEC,PROD_AGUA,2,PROD,"Agua, riego y saneamiento valor de la producción serie desestacionalizada",661351,ENEC_PROD_AGUA
+ENEC,PROD_ELEC,2,PROD,Electricidad y telecomunicaciones valor de la producción serie desestacionalizada,661358,ENEC_PROD_ELEC
+ENEC,PROD_TRANSP,2,PROD,Transporte y urbanización valor de la producción serie desestacionalizada,661365,ENEC_PROD_TRANSP
+ENEC,PROD_PETR,2,PROD,Petróleo y petroquímica valor de la producción serie desestacionalizada,661372,ENEC_PROD_PETR
+ENEC,PROD_OTRAS,2,PROD,Otras construcciones valor de la producción serie desestacionalizada,661379,ENEC_PROD_OTRAS
+ENEC,PO,1,NA,Personal ocupado total serie desestacionalizada,661386,ENEC_PO
+ENEC,PO_DEP,2,PO,Personal ocupado dependiente de la razón serie desestacionalizada,661393,ENEC_PO_DEP
+ENEC,PO_DEP_OBR,3,PO_DEP,Obreros dependientes de la razón serie desestacionalizada,661400,ENEC_PO_DEP_OBR
+ENEC,PO_DEP_EMP,3,PO_DEP,Empleados dependientes de la razón serie desestacionalizada,661407,ENEC_PO_DEP_EMP
+ENEC,PO_DEP_PROP,3,PO_DEP,"Propietarios, familiares y otros trabajadores no remunerados dependiente de la razón serie desestacionalizada",661414,ENEC_PO_DEP_PROP
+ENEC,PO_NODEP,2,PO,Personal ocupado suministrado por otra razón social serie desestacionalizada,661421,ENEC_PO_NODEP
+ENEC,REM,1,NA,Remuneraciones reales total por persona ocupada serie desestacionalizada,661428,ENEC_REM
+ENEC,REM_SALARIOS,2,REM,Salarios por persona ocupada serie desestacionalizada,661435,ENEC_REM_SALARIOS
+ENEC,REM_SUELDOS,2,REM,Sueldos por persona ocupada serie desestacionalizada,661442,ENEC_REM_SUELDOS
+ENEC,HT,1,NA,Horas trabajadas por el personal ocupado serie desestacionalizada,661449,ENEC_HT
+ENEC,HT_DEP,2,HT,Horas trabajadas por el personal ocupado dependiente de la razón social serie desestacionalizada,661456,ENEC_HT_DEP
+ENEC,HT_DEP_OBR,3,HT_DEP,Horas trabajadas por  obreros dependientes de la razón social serie desestacionalizada,661463,ENEC_HT_DEP_OBR
+ENEC,HT_DEP_EMP,3,HT_DEP,Horas trabajadas por empleados dependiente de la razón social serie desestacionalizada,661470,ENEC_HT_DEP_EMP
+ENEC,HT_DEP_PROP,3,HT_DEP,"Horas trabajadas por propietarios, familiares y otros trabajadores dependiente de la razón social serie desestacionalizada",661477,ENEC_HT_DEP_PROP
+ENEC,HT_NODEP,2,HT,Horas trabajadas por el personal ocupado no dependiente de la razón social serie desestacionalizada,661484,ENEC_HT_NODEP
+EMEC,PO_MAYOR,1,NA,Personal ocupado total Comercio al por mayor serie desestacionalizada,654033,EMEC_PO_MAYOR
+EMEC,RM_MAYOR,1,NA,Remuneración media total Comercio al por mayor serie desestacionalizada,654040,EMEC_RM_MAYOR
+EMEC,ING_MAYOR,1,NA,Ingresos totales por suministros de bienes y servicios Indice general Comercio al por mayor serie desestacionalizada,654047,EMEC_ING_MAYOR
+EMEC,ING_MAYOR_ABT,2,ING_MAYOR,"Ingresos totales Abarrotes, alimentos, bebidas, hielo y tabaco Comercio al por mayor serie desestacionalizada",654278,EMEC_ING_MAYOR_ABT
+EMEC,ING_MAYOR_AA,3,ING_MAYOR_ABT,Ingresos totales Abarrotes y alimentos Comercio al por mayor serie desestacionalizada,654285,EMEC_ING_MAYOR_AA
+EMEC,ING_MAYOR_BT,3,ING_MAYOR_ABT,"Ingresos totales Bebidas, hielo y tabaco Comercio al por mayor serie desestacionalizada",654292,EMEC_ING_MAYOR_BT
+EMEC,ING_MAYOR_TEX,2,ING_MAYOR,Ingresos totales Productos textiles y calzado    Comercio al por mayor serie desestacionalizada,654299,EMEC_ING_MAYOR_TEX
+EMEC,ING_MAYOR_FARM_ET_AL,2,ING_MAYOR,"Ingresos totales Productos farmacéuticos, de perfumería, artículos para el esparcimiento, electrodomésticos menores y aparatos de línea blanca    Comercio al por mayor serie desestacionalizada",654306,EMEC_ING_MAYOR_FARM_ET_AL
+EMEC,ING_MAYOR_FARM,3,ING_MAYOR_FARM_ET_AL,Ingresos totales Productos farmacéuticos   Comercio al por mayor serie desestacionalizada,654313,EMEC_ING_MAYOR_FARM
+EMEC,ING_MAYOR_PERF,3,ING_MAYOR_FARM_ET_AL,"Ingresos totales Artículos de perfumería, cosméticos y joyería   Comercio al por mayor serie desestacionalizada",654320,EMEC_ING_MAYOR_PERF
+EMEC,ING_MAYOR_DISCOS_ET_AL,3,ING_MAYOR_FARM_ET_AL,"Ingresos totales Discos, juguetes y artículos deportivos   Comercio al por mayor serie desestacionalizada",654327,EMEC_ING_MAYOR_DISCOS_ET_AL
+EMEC,ING_MAYOR_PAPELERIA,3,ING_MAYOR_FARM_ET_AL,"Ingresos totales Artículos de papelería, libros, revistas y periódicos   Comercio al por mayor serie desestacionalizada",654334,EMEC_ING_MAYOR_PAPELERIA
+EMEC,ING_MAYOR_ELECTROD,3,ING_MAYOR_FARM_ET_AL,Ingresos totales Electrodomésticos menores y aparatos de línea blanca   Comercio al por mayor serie desestacionalizada,654341,EMEC_ING_MAYOR_ELECTROD
+EMEC,ING_MAYOR_MP_AGR_ET_AL,2,ING_MAYOR,"Ingresos totales Materias primas agropecuarias y forestales, para la industria y materiales de desecho    Comercio al por mayor serie desestacionalizada",654348,EMEC_ING_MAYOR_MP_AGR_ET_AL
+EMEC,ING_MAYOR_MP_AGR,3,ING_MAYOR_MP_AGR_ET_AL,Ingresos totales Materias primas agropecuarias y forestales   Comercio al por mayor serie desestacionalizada,654355,EMEC_ING_MAYOR_MP_AGR
+EMEC,ING_MAYOR_MP_IND,3,ING_MAYOR_MP_AGR_ET_AL,Ingresos totales Materias primas para la industria   Comercio al por mayor serie desestacionalizada,654362,EMEC_ING_MAYOR_MP_IND
+EMEC,ING_MAYOR_MAT_DESECHO,3,ING_MAYOR_MP_AGR_ET_AL,Ingresos totales Materiales de desecho   Comercio al por mayor serie desestacionalizada,654369,EMEC_ING_MAYOR_MAT_DESECHO
+EMEC,ING_MAYOR_MAQYEQ,2,ING_MAYOR,"Ingresos totales Maquinaria, equipo y mobiliario para actividades agropecuarias, Industriales de servicio y comercio, y de otra maquinaria y equipo de uso general    Comercio al por mayor serie desestacionalizada",654376,EMEC_ING_MAYOR_MAQYEQ
+EMEC,ING_MAYOR_MAQYEQ_AGR,3,ING_MAYOR_MAQYEQ,"Ingresos totales Maquinaria y equipo agropecuario, forestal y para la pesca   Comercio al por mayor serie desestacionalizada",654383,EMEC_ING_MAYOR_MAQYEQ_AGR
+EMEC,ING_MAYOR_MAQYEQ_IND,3,ING_MAYOR_MAQYEQ,Ingresos totales Maquinaria y equipo para la industria   Comercio al por mayor serie desestacionalizada,654390,EMEC_ING_MAYOR_MAQYEQ_IND
+EMEC,ING_MAYOR_MAQYEQ_SERV,3,ING_MAYOR_MAQYEQ,Ingresos totales Maquinaria y equipo para los servicios y para actividades comerciales   Comercio al por mayor serie desestacionalizada,654397,EMEC_ING_MAYOR_MAQYEQ_SERV
+EMEC,ING_MAYOR_MAQYEQ_OTRO,3,ING_MAYOR_MAQYEQ,"Ingresos totales Mobiliario y equipo de cómputo y de oficina, y de otra maquinaria y equipo de uso general   Comercio al por mayor serie desestacionalizada",654404,EMEC_ING_MAYOR_MAQYEQ_OTRO
+EMEC,ING_MAYOR_AUTO,2,ING_MAYOR,"Ingresos totales Camiones y de partes y refacciones nuevas para automóviles, camionetas y camiones    Comercio al por mayor serie desestacionalizada",654411,EMEC_ING_MAYOR_AUTO
+EMEC,ING_MAYOR_INTERM,2,ING_MAYOR,Ingresos totales Intermediación de comercio al por mayor    Comercio al por mayor serie desestacionalizada,654418,EMEC_ING_MAYOR_INTERM
+EMEC,ING_MAYOR_INTERM_NO_EN_LINEA,3,ING_MAYOR_INTERM,Ingresos totales Intermediación de comercio al por mayor excepto a través de Internet y de otros medios electrónicos   Comercio al por mayor serie desestacionalizada,654425,EMEC_ING_MAYOR_INTERM_NO_EN_LINEA
+EMEC,COMPRAS_MAYOR,1,NA,Mercancias compradas para su venta total Comercio al por mayor serie desestacionalizada,654432,EMEC_COMPRAS_MAYOR
+EMEC,PO_MENUD,1,NA,Personal ocupado total Comercio al por menor serie desestacionalizada,654439,EMEC_PO_MENUD
+EMEC,RM_MENUD,1,NA,Remuneración media total Comercio al por menor serie desestacionalizada,654446,EMEC_RM_MENUD
+EMEC,ING_MENUD,1,NA,Ingresos totales por suministros de bienes y servicios indice general Comercio al por menor serie desestacionalizada,654451,EMEC_ING_MENUD
+EMEC,ING_MENUD_ABT,2,ING_MENUD,"Ingresos totales Abarrotes, alimentos, bebidas, hielo y tabaco   Comercio al por menor serie desestacionalizada",654684,EMEC_ING_MENUD_ABT
+EMEC,ING_MENUD_AA,3,ING_MENUD_ABT,Ingresos totales Abarrotes y alimentos Comercio al por menor serie desestacionalizada,654691,EMEC_ING_MENUD_AA
+EMEC,ING_MENUD_BT,3,ING_MENUD_ABT,"Ingresos totales Bebidas, hielo y tabaco Comercio al por menor serie desestacionalizada",654698,EMEC_ING_MENUD_BT
+EMEC,ING_MENUD_TAD,2,ING_MENUD,Ingresos totales En tiendas de autoservicio y departamentales   Comercio al por menor serie desestacionalizada,654705,EMEC_ING_MENUD_TAD
+EMEC,ING_MENUD_TA,3,ING_MENUD_TAD,Ingresos totales En tiendas de autoservicio  Comercio al por menor serie desestacionalizada,654712,EMEC_ING_MENUD_TA
+EMEC,ING_MENUD_TD,3,ING_MENUD_TAD,Ingresos totales En tiendas departamentales Comercio al por menor serie desestacionalizada,654719,EMEC_ING_MENUD_TD
+EMEC,ING_MENUD_TEX,2,ING_MENUD,"Ingresos totales Productos textiles, bisutería, accesorios de vestir y calzado   Comercio al por menor serie desestacionalizada",654726,EMEC_ING_MENUD_TEX
+EMEC,ING_MENUD_TEX_NO_ROPA,3,ING_MENUD_TEX,Ingresos totales Productos textiles excepto ropa Comercio al por menor serie desestacionalizada,654733,EMEC_ING_MENUD_TEX_NO_ROPA
+EMEC,ING_MENUD_ROPA,3,ING_MENUD_TEX,Ingresos totales Ropa Comercio al por menor serie desestacionalizada,654740,EMEC_ING_MENUD_ROPA
+EMEC,ING_MENUD_CALZADO,3,ING_MENUD_TEX,Ingresos totales Calzado Comercio al por menor serie desestacionalizada,654747,EMEC_ING_MENUD_CALZADO
+EMEC,ING_MENUD_ART_SALUD,2,ING_MENUD,Ingresos totales Artículos para el cuidado de la salud   Comercio al por menor serie desestacionalizada,654754,EMEC_ING_MENUD_ART_SALUD
+EMEC,ING_MENUD_PAP_ET_AL,3,ING_MENUD_ART_SALUD,"Ingresos totales Artículos de papelería, para el esparcimiento y otros artículos de uso personal   Comercio al por menor serie desestacionalizada",654761,EMEC_ING_MENUD_PAP_ET_AL
+EMEC,ING_MENUD_PERF_JOY,3,ING_MENUD_ART_SALUD,Ingresos totales Arículos de perfumería y joyería Comercio al por menor serie desestacionalizada,654768,EMEC_ING_MENUD_PERF_JOY
+EMEC,ING_MENUD_ESPARC,3,ING_MENUD_ART_SALUD,Ingresos totales Arículos para el esparcimiento Comercio al por menor serie desestacionalizada,654775,EMEC_ING_MENUD_ESPARC
+EMEC,ING_MENUD_PAP_LIBR,3,ING_MENUD_ART_SALUD,"Ingresos totales Artículos de librería, libros, revistas y períodicos Comercio al por menor serie desestacionalizada",654782,EMEC_ING_MENUD_PAP_LIBR
+EMEC,ING_MENUD_PAP_OTROS,3,ING_MENUD_ART_SALUD,"Ingresos totales Mascotas, regalos, arículos religiosos, desechables, artesanías y otros Comercio al por menor serie desestacionalizada",654789,EMEC_ING_MENUD_PAP_OTROS
+EMEC,ING_MENUD_ENS_DOM_ET_AL,2,ING_MENUD,"Ingresos totales Enseres domésticos, computadoras, artículos para la decoración de interiores y artículos usados   Comercio al por menor serie desestacionalizada",654796,EMEC_ING_MENUD_ENS_DOM_ET_AL
+EMEC,ING_MENUD_MUEBLES_HOG,3,ING_MENUD_ENS_DOM_ET_AL,Ingresos totales Muebles para el hogar y otros enseres domésticos Comercio al por menor serie desestacionalizada,654803,EMEC_ING_MENUD_MUEBLES_HOG
+EMEC,ING_MENUD_COMUNIC,3,ING_MENUD_ENS_DOM_ET_AL,"Ingresos totales Mobiliario, equipo y accesorios de computo, teléfonos y otros aparatos de comunicación  omercio al por menor serie desestacionalizada",654810,EMEC_ING_MENUD_COMUNIC
+EMEC,ING_MENUD_DECOR,3,ING_MENUD_ENS_DOM_ET_AL,Ingresos totales Artículos para la decoración de interiores  Comercio al por menor serie desestacionalizada,654817,EMEC_ING_MENUD_DECOR
+EMEC,ING_MENUD_USADOS,3,ING_MENUD_ENS_DOM_ET_AL,Ingresos totales Artículos usados Comercio al por menor serie desestacionalizada,654824,EMEC_ING_MENUD_USADOS
+EMEC,ING_MENUD_FERR,2,ING_MENUD,"Ingresos totales Artículos de ferretería, tlapalería y vidrios   Comercio al por menor serie desestacionalizada",654831,EMEC_ING_MENUD_FERR
+EMEC,ING_MENUD_VEH_REF_COMB,2,ING_MENUD,"Ingresos totales Vehículos de motor, refacciones, combustibles y lubricantes   Comercio al por menor serie desestacionalizada",654838,EMEC_ING_MENUD_VEH_REF_COMB
+EMEC,ING_MENUD_VEH,3,ING_MENUD_VEH_REF_COMB,Ingresos totales Automóviles y camionetas Comercio al por menor serie desestacionalizada,654845,EMEC_ING_MENUD_VEH
+EMEC,ING_MENUD_REF,3,ING_MENUD_VEH_REF_COMB,"Ingresos totales Partes y refacciones para automóviles, camionetas y camiones Comercio al por menor serie desestacionalizada",654852,EMEC_ING_MENUD_REF
+EMEC,ING_MENUD_MOTOC,3,ING_MENUD_VEH_REF_COMB,Ingresos totales Motocicletas y otros vehículos de motor Comercio al por menor serie desestacionalizada,654859,EMEC_ING_MENUD_MOTOC
+EMEC,ING_MENUD_COMB,3,ING_MENUD_VEH_REF_COMB,"Ingresos totales Combustibles, aceites y grasas lubricantes Comercio al por menor serie desestacionalizada",654866,EMEC_ING_MENUD_COMB
+EMEC,ING_MENUD_EN_LINEA,2,ING_MENUD,"Ingresos totales Exclusivamente a través de Internet, y catálogos impresos, televisión y similares   Comercio al por menor serie desestacionalizada",654873,EMEC_ING_MENUD_EN_LINEA
+EMEC,COMPRAS_MENUD,1,NA,Mercancias compradas para su venta total Comercio al por menor serie desestacionalizada,654880,EMEC_COMPRAS_MENUD
+EMS,ING,1,NA,Indice ponderado de Ingresos totales por suministro de bienes y servicios  serie desestacionalizada,652963,EMS_ING
+EMS,ING_TRANSP,2,ING,"Ingresos totales Transporte, correos y almacenamiento    serie desestacionalizada",652970,EMS_ING_TRANSP
+EMS,ING_MEDIOS,2,ING,Ingresos totales Información en medios masivos    serie desestacionalizada,652977,EMS_ING_MEDIOS
+EMS,ING_INMOB,2,ING,Ingresos totales Servicios inmobiliarios y de alquiler de bienes muebles e intangibles    serie desestacionalizada,652984,EMS_ING_INMOB
+EMS,ING_SERV_PROF,2,ING,"Ingresos totales Servicios profesionales, científicos y técnicos    serie desestacionalizada",652991,EMS_ING_SERV_PROF
+EMS,ING_SERV_APOY,2,ING,"Ingresos totales Servicios de apoyo a los negocios y manejo de residuos y desechos, y servicios de remediación    serie desestacionalizada",652998,EMS_ING_SERV_APOY
+EMS,ING_SERV_EDUC,2,ING,Ingresos totales Servicios educativos    serie desestacionalizada,653005,EMS_ING_SERV_EDUC
+EMS,ING_SERV_SALUD,2,ING,Ingresos totales Servicios de salud y de asistencia social    serie desestacionalizada,653012,EMS_ING_SERV_SALUD
+EMS,ING_SERV_ESPARC,2,ING,"Ingresos totales Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos    serie desestacionalizada",653019,EMS_ING_SERV_ESPARC
+EMS,ING_SERV_ALOJ,2,ING,Ingresos totales Servicios de alojamiento temporal y de preparación de alimentos y bebidas    serie desestacionalizada,653026,EMS_ING_SERV_ALOJ
+EMS,PO,1,NA,Personal ocupado total por sector    serie desestacionalizada,653033,EMS_PO
+EMS,PO_TRANSP,2,PO,"Personal ocupado  Transporte, correos y almacenamiento    serie desestacionalizada",653040,EMS_PO_TRANSP
+EMS,PO_MEDIOS,2,PO,Personal ocupado  Información en medios masivos    serie desestacionalizada,653047,EMS_PO_MEDIOS
+EMS,PO_INMOB,2,PO,Personal ocupado  Servicios inmobiliarios y de alquiler de bienes muebles e intangibles    serie desestacionalizada,653054,EMS_PO_INMOB
+EMS,PO_SERV_PROF,2,PO,"Personal ocupado  Servicios profesionales, científicos y técnicos    serie desestacionalizada",653061,EMS_PO_SERV_PROF
+EMS,PO_SERV_APOY,2,PO,"Personal ocupado  Servicios de apoyo a los negocios y manejo de residuos y desechos, y servicios de remediación    serie desestacionalizada",653068,EMS_PO_SERV_APOY
+EMS,PO_SERV_EDUC,2,PO,Personal ocupado  Servicios educativos    serie desestacionalizada,653075,EMS_PO_SERV_EDUC
+EMS,PO_SERV_SALUD,2,PO,Personal ocupado  Servicios de salud y de asistencia social    serie desestacionalizada,653082,EMS_PO_SERV_SALUD
+EMS,PO_SERV_ESPARC,2,PO,"Personal ocupado  Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos    serie desestacionalizada",653089,EMS_PO_SERV_ESPARC
+EMS,PO_SERV_ALOJ,2,PO,Personal ocupado  Servicios de alojamiento temporal y de preparación de alimentos y bebidas    serie desestacionalizada,653096,EMS_PO_SERV_ALOJ
+EMS,GASTOS,1,NA,Gastos totales por el consumo de bienes y servicios    serie desestacionalizada,653103,EMS_GASTOS
+EMS,REM,1,NA,Remuneraciones totales    serie desestacionalizada,653110,EMS_REM
+ICC,ICC,1,NA,Índice de confianza del consumidor   serie desestacionalizada,454186,ICC_ICC
+ICC,HOG_12M_ANT,2,ICC,Comparada con la situación económica que los miembros de este hogar tenían hace 12 meses ¿cómo cree que es su situación en este momento?   serie desestacionalizada,454193,ICC_HOG_12M_ANT
+ICC,HOG_12M_POST,2,ICC,"¿Cómo considera usted que será la situación económica de los miembros de este hogar dentro de 12 meses, respecto a la actual?   serie desestacionalizada",454200,ICC_HOG_12M_POST
+ICC,PAIS_12M_ANT,2,ICC,¿Cómo considera usted la situación económica del país hoy en día comparada con la de hace 12 meses?   serie desestacionalizada,454207,ICC_PAIS_12M_ANT
+ICC,PAIS_12M_POST,2,ICC,¿Cómo considera usted que será la condición económica del país dentro de 12 meses respecto a la actual situación?   serie desestacionalizada,454214,ICC_PAIS_12M_POST
+ICC,SIT_EC_12M_ANT,2,ICC,Comparando la situación ecónomica actual con la de hace un año ¿cómo considera en el momento actual las posibilidades serie desestacionalizada,454221,ICC_SIT_EC_12M_ANT
+ICC,ICC_COMPLEM_1,1,NA,¿Cómo describiría usted su situación económica comparada con la de hace 12 meses?   serie desestacionalizada,454767,ICC_ICC_COMPLEM_1
+ICC,ICC_COMPLEM_2,1,NA,"¿Y cómo cree usted que será su situación económica dentro de 12 meses, respecto de la actual?   serie desestacionalizada",454774,ICC_ICC_COMPLEM_2
+ICC,ICC_COMPLEM_3,1,NA,"¿En este momento tiene usted mayores posibilidades de comprar ropa, zapatos, alimentos, etc., que hace un año?   serie desestacionalizada",454781,ICC_ICC_COMPLEM_3
+ICC,ICC_COMPLEM_4,1,NA,¿Considera usted que durante los próximos 12 meses usted o alguno de los integrantes de este hogar tendrán posibilidades económicas para salir de vacaciones?   serie desestacionalizada,454788,ICC_ICC_COMPLEM_4
+ICC,ICC_COMPLEM_5,1,NA,¿Actualmente usted tiene posibilidades de ahorrar alguna parte de sus ingresos?   serie desestacionalizada,454795,ICC_ICC_COMPLEM_5
+ICC,ICC_COMPLEM_6,1,NA,¿Cómo considera usted que serán sus condiciones económicas para ahorrar dentro de 12 meses comparadas con las actuales?   serie desestacionalizada,454802,ICC_ICC_COMPLEM_6
+ICC,ICC_COMPLEM_7,1,NA,"Comparando con los 12 meses anteriores, ¿cómo cree usted que se comporten los precios en el país en los siguientes 12 meses?   serie desestacionalizada",461470,ICC_ICC_COMPLEM_7
+ICC,ICC_COMPLEM_8,1,NA,"¿Cree usted que el empleo en el país en los próximos 12 meses (aumentará, permanecerá igual, disminuirá...) ?   serie desestacionalizada",454809,ICC_ICC_COMPLEM_8
+ICC,ICC_COMPLEM_9,1,NA,¿Algún miembro de este hogar o usted están planeando comprar un automóvil nuevo o usado en los proximos 2 años?   serie desestacionalizada,454816,ICC_ICC_COMPLEM_9
+ICC,ICC_COMPLEM_10,1,NA,"¿Algún miembro de este hogar o usted están planeando comprar, construir o remodelar una casa en los próximos 2 años?   serie desestacionalizada",454823,ICC_ICC_COMPLEM_10
+IP,INPC,1,NA,Índice nacional de precios al consumidor,628194,IP_INPC
+IP,INPC_SUBY,2,INPC,Subyacente,628195,IP_INPC_SUBY
+IP,INPC_SUBY_MERC,3,INPC_SUBY,Subyacente mercancias,628196,IP_INPC_SUBY_MERC
+IP,INPC_SUBY_SERV,3,INPC_SUBY,Subyacente servicios,628197,IP_INPC_SUBY_SERV
+IP,INPC_NO_SUBY,2,INPC,No subyacente,628198,IP_INPC_NO_SUBY
+IP,INPC_NO_SUBY_AGRO,3,INPC_NO_SUBY,No subyacente Agropecuarios,628199,IP_INPC_NO_SUBY_AGRO
+IP,INPC_NO_SUBY_TARIF_GOB,3,INPC_NO_SUBY,No subyacente Energéticos y tarifas autorizadas por el gobierno,628200,IP_INPC_NO_SUBY_TARIF_GOB
+IP,INPP_NO_PETR,1,NA,INPP sin Petróleo y con Servicios,673095,IP_INPP_NO_PETR
+IP,INPP_SI_PETR,1,INPP_PROD,INPP con Petróleo y con Servicios,673096,IP_INPP_SI_PETR
+IP,INPP_GA1,2,INPP_PROD,INPP Actividades primarias,673097,IP_INPP_GA1
+IP,INPP_GA2_NO_PETR,2,INPP_PROD,INPP Actividades secundarias sin petróleo,673098,IP_INPP_GA2_NO_PETR
+IP,INPP_GA2_SI_PETR,2,INPP_PROD,INPP Actividades secundarias con petróleo,673099,IP_INPP_GA2_SI_PETR
+IP,INPP_GA3,2,INPP_PROD,INPP Actividades terciarias,673100,IP_INPP_GA3
+IP,IP_X,1,NA,Índice general de precios de las exportaciones,37502,IP_IP_X
+IP,IP_M,1,NA,Índice general de precios de las importaciones   ,37503,IP_IP_M
+BC,X,1,NA,Exportaciones (FOB) Total,65649,BC_X
+BC,X_PET,2,X,Exportaciones (FOB) Petroleras total,87512,BC_X_PET
+BC,X_CRUDO,3,X_PET,Exportaciones (FOB) Petróleo crudo,206760,BC_X_CRUDO
+BC,X_PET_OTRAS,3,X_PET,Exportaciones (FOB) Petroleras Otras,206762,BC_X_PET_OTRAS
+BC,X_NO_PET,2,X,Exportaciones (FOB) No petroleras total,87514,BC_X_NO_PET
+BC,X_AGRO,3,X_NO_PET,Exportaciones (FOB) Agropecuarias,87516,BC_X_AGRO
+BC,X_EXTRAC,3,X_NO_PET,Exportaciones (FOB) Extractivas,87518,BC_X_EXTRAC
+BC,X_MANUF,3,X_NO_PET,Exportaciones (FOB) Manufacturas,87520,BC_X_MANUF
+BC,X_MANUF_AUTO,4,X_MANUF,Exportaciones (FOB) Manufacturas automotriz,206764,BC_X_MANUF_AUTO
+BC,X_MANUF_RESTO,4,X_MANUF,Exportaciones (FOB) Manufacturas resto,206766,BC_X_MANUF_RESTO
+BC,M,1,NA,Importaciones (FOB) Total,65651,BC_M
+BC,M_CONS,2,M_TOT,Importaciones (FOB) De bienes de consumo,87522,BC_M_CONS
+BC,M_CONS_PETROL,3,M_CONS,Importaciones (FOB) De bienes de consumo petroleras,206772,BC_M_CONS_PETROL
+BC,M_CONS_NO_PETROL,3,M_CONS,Importaciones (FOB) De bienes de consumo no petroleras,206774,BC_M_CONS_NO_PETROL
+BC,M_USO_INT,2,M_TOT,Importaciones (FOB) De bienes de uso intermedio,87524,BC_M_USO_INT
+BC,M_USO_INT_PETROL,3,M_USO_INT,Importaciones (FOB) De bienes de uso intermedio petroleras,206776,BC_M_USO_INT_PETROL
+BC,M_USO_INT_NO_PETROL,3,M_USO_INT,Importaciones (FOB) De bienes de uso intermedio no petroleras,206778,BC_M_USO_INT_NO_PETROL
+BC,M_BIEN_CAP,2,M_TOT,Importaciones (FOB) De bienes de capital,87530,BC_M_BIEN_CAP
+BC,XM,1,NA,Saldo Total,87537,BC_XM
+BC,XM_PETROL,2,XM,Saldo Productos petroleros,206780,BC_XM_PETROL
+BC,XM_NO_PETROL,2,XM,Saldo Productos no petroleros,206782,BC_XM_NO_PETROL
+BC,M_PETROL,2,M_TIPO,Importaciones (FOB) Petroleras,206768,BC_M_PETROL
+BC,M_NO_PETROL,2,M_TIPO,Importaciones (FOB) No petroleras,206770,BC_M_NO_PETROL
+AUTO,PROD_TOTAL,1,NA,Producción de vehículos automotores   ,15166,AUTO_PROD_TOTAL
+AUTO,PROD_AUTOS,2,PROD_TOTAL,Automóviles,15167,AUTO_PROD_AUTOS
+AUTO,PROD_CAMIONES,2,PROD_TOTAL,"Camiones, tractocamiones y autobuses integrales",15168,AUTO_PROD_CAMIONES
+AUTO,VENTA_AUTOS,2,VENTA_TOTAL,Automóviles total,15169,AUTO_VENTA_AUTOS
+AUTO,VENTA_SUB,3,VENTA_AUTOS,Subcompactos,15170,AUTO_VENTA_SUB
+AUTO,VENTA_COMP,3,VENTA_AUTOS,Compactos,15171,AUTO_VENTA_COMP
+AUTO,VENTA_LUX,3,VENTA_AUTOS,De lujo,15172,AUTO_VENTA_LUX
+AUTO,VENTA_DEP,3,VENTA_AUTOS,Deportivos,15173,AUTO_VENTA_DEP
+AUTO,VENTA_IMP,3,VENTA_AUTOS,Importados,15174,AUTO_VENTA_IMP
+AUTO,VENTA_CAMIONES,2,VENTA_TOTAL,Camiones total,119328,AUTO_VENTA_CAMIONES
+AUTO,VENTA_USO_MULT,3,VENTA_CAMIONES,Uso múltiple   ,119331,AUTO_VENTA_USO_MULT
+AUTO,VENTA_USO_MULT_NAL,4,VENTA_USO_MULT,Uso múltiple nacionales nacionales,119332,AUTO_VENTA_USO_MULT_NAL
+AUTO,VENTA_USO_MULT_IMP,4,VENTA_USO_MULT,Uso múltiple importado importados,119333,AUTO_VENTA_USO_MULT_IMP
+AUTO,VENTA_CLASE_1,3,VENTA_CAMIONES,Clase 1 (hasta 2721 kgs. de peso bruto vehicular),119334,AUTO_VENTA_CLASE_1
+AUTO,VENTA_CLASE_1_NAL,4,VENTA_CLASE_1,Clase 1 (hasta 2721 kgs. de peso bruto vehicular) nacionales,119335,AUTO_VENTA_CLASE_1_NAL
+AUTO,VENTA_CLASE_1_IMP,4,VENTA_CLASE_1,Clase 1 (hasta 2721 kgs. de peso bruto vehicular) importados,119336,AUTO_VENTA_CLASE_1_IMP
+AUTO,VENTA_CLASE_2,3,VENTA_CAMIONES,Clase 2 (de 2722 a 4536 kgs. de peso bruto vehicular),119337,AUTO_VENTA_CLASE_2
+AUTO,VENTA_CLASE_2_NAL,4,VENTA_CLASE_2,Clase 2 (de 2722 a 4536 kgs. de peso bruto vehicular) nacionales,119338,AUTO_VENTA_CLASE_2_NAL
+AUTO,VENTA_CLASE_2_IMP,4,VENTA_CLASE_2,Clase 2 (de 2722 a 4536 kgs. de peso bruto vehicular) importados,119339,AUTO_VENTA_CLASE_2_IMP
+AUTO,VENTA_CLASE_3,3,VENTA_CAMIONES,Clase 3 (de 4537 a 6350 kgs. de peso bruto vehicular),119340,AUTO_VENTA_CLASE_3
+AUTO,VENTA_CLASE_3_NAL,4,VENTA_CLASE_3,Clase 3 (de 4537 a 6350 kgs. de peso bruto vehicular) nacionales,119341,AUTO_VENTA_CLASE_3_NAL
+AUTO,VENTA_CLASE_3_IMP,4,VENTA_CLASE_3,Clase 3 (de 4537 a 6350 kgs. de peso bruto vehicular) importados,119342,AUTO_VENTA_CLASE_3_IMP
+AUTO,VENTA_CLASE_4_MAS,3,VENTA_CAMIONES,"Clase 4,5,6,7 y 8 (de 6351 kgs. de peso bruto vehicular ó mas)",119343,AUTO_VENTA_CLASE_4_MAS
+AUTO,VENTA_TRACT,3,VENTA_CAMIONES,Tractocamiones,119346,AUTO_VENTA_TRACT
+AUTO,VENTA_CHASIS,3,VENTA_CAMIONES,Chasís coraza para camión de carga,119349,AUTO_VENTA_CHASIS
+AUTO,VENTA_AUTOBUS,3,VENTA_CAMIONES,Autobuses integrales ,119352,AUTO_VENTA_AUTOBUS
+AUTO,VENTA_CAMIONES_NAL,3,VENTA_CAM_TIPO,Camiones nacionales,119329,AUTO_VENTA_CAMIONES_NAL
+AUTO,VENTA_CAMIONES_IMP,3,VENTA_CAM_TIPO,Camiones importados,119330,AUTO_VENTA_CAMIONES_IMP
+FINANCIAL,TIIE,0,NO,TIIE a 28 días,0,FINANCIAL_TIIE
+FINANCIAL,FPB,0,NO,Fondeo promedio ponderado bancario,0,FINANCIAL_FPB
+FINANCIAL,FPG,0,NO,Fondeo promedio ponderado gubernamental,0,FINANCIAL_FPG
+FINANCIAL,TC,0,NO,Tipo de cambio fix,0,FINANCIAL_TC
+FINANCIAL,TCR,0,NO,"Índice de tipo de cambio real, ITCR, ",0,FINANCIAL_TCR
+FINANCIAL,IPE,0,NO,"Índice de precios externos en monedas,",0,FINANCIAL_IPE
+FINANCIAL,M1_BM,0,NO,Billetes y monedas en poder del público,0,FINANCIAL_M1_BM
+FINANCIAL,M1_CC,0,NO,Cuentas de cheques,0,FINANCIAL_M1_CC
+FINANCIAL,M1_DCC,0,NO,Depósitos en cuenta corriente,0,FINANCIAL_M1_DCC
+FINANCIAL,M1_EAC,0,NO,Entidades de ahorro y crédito popular,0,FINANCIAL_M1_EAC
+FINANCIAL,M2_CPB,0,NO,Captación a plazo en bancos,0,FINANCIAL_M2_CPB
+FINANCIAL,M2_OIB_UN,0,NO,"Captación a plazo, En otras instituciones no bancarias, Uniones de crédito",0,FINANCIAL_M2_OIB_UN
+FINANCIAL,M2_OIB_CP,0,NO,"Captación a plazo, En otras instituciones no bancarias, Entidades de ahorro y crédito popular",0,FINANCIAL_M2_OIB_CP
+FINANCIAL,M2_AFI,0,NO,Acciones de los fondos de inversión de deuda,0,FINANCIAL_M2_AFI
+FINANCIAL,M2_ARV,0,NO,Acreedores por reporto de valores,0,FINANCIAL_M2_ARV
+FINANCIAL,M3_GOB,0,NO,Emitidos por el Gobierno Federal,0,FINANCIAL_M3_GOB
+FINANCIAL,M3_IPAB,0,NO,Emitidos por el IPAB ,0,FINANCIAL_M3_IPAB
+FINANCIAL,M4_IN_BAN,0,NO,Depósitos de exigibilidad inmediata en bancos ,0,FINANCIAL_M4_IN_BAN
+FINANCIAL,M4_CP_BAN,0,NO,Captación a plazo en bancos ,0,FINANCIAL_M4_CP_BAN
+FINANCIAL,M4_AFI,0,NO,Acciones de los fondos de inversión de deuda,0,FINANCIAL_M4_AFI
+FINANCIAL,M4_VP_GOB,0,NO,"Valores públicos en poder de no residentes, Emitidos por el Gobierno Federal",0,FINANCIAL_M4_VP_GOB
+FINANCIAL,M4_IPAB,0,NO,"Valores públicos en poder de no residentes, Emitidos por el IPAB ",0,FINANCIAL_M4_IPAB
+FINANCIAL,M4_ACR,0,NO,Acreedores por reportos,0,FINANCIAL_M4_ACR
+INT ,FEDFUNDS_EUA,0,NO, Effective Federal Funds Rate,0,INT_FEDFUNDS_EUA
+INT ,IPI_USA,0,NO,Industrial Production Index,0,INT_IPI_USA
+INT ,M1SL_USA,0,NO,M1 Money Stock  (M1SL),0,INT_M1SL_USA
+INT ,M2SL_USA,0,NO,M2 Money Stock  (M2SL),0,INT_M2SL_USA
+INT ,RESBALNSW_USA,0,NO,Total Reserve Balances Maintained with Federal Reserve Banks,0,INT_RESBALNSW_USA
+INT ,UNRATE_USA,0,NO,Unemployment Rate,0,INT_UNRATE_USA
+INT ,TI_1M,0,NO,"Market yield on U.S. Treasury securities at 1-month   constant maturity, quoted on investment basis",0,INT_TI_1M
+INT ,TI_3M,0,NO,"Market yield on U.S. Treasury securities at 3-month   constant maturity, quoted on investment basis",0,INT_TI_3M
+INT ,TI_6M,0,NO,"Market yield on U.S. Treasury securities at 6-month   constant maturity, quoted on investment basis",0,INT_TI_6M
+INT ,TI_1Y,0,NO,"Market yield on U.S. Treasury securities at 1-year   constant maturity, quoted on investment basis",0,INT_TI_1Y
+INT ,TI_2Y,0,NO,"Market yield on U.S. Treasury securities at 2-year   constant maturity, quoted on investment basis",0,INT_TI_2Y
+INT ,TI_3Y,0,NO,"Market yield on U.S. Treasury securities at 3-year   constant maturity, quoted on investment basis",0,INT_TI_3Y
+INT ,TI_5Y,0,NO,"Market yield on U.S. Treasury securities at 5-year   constant maturity, quoted on investment basis",0,INT_TI_5Y
+INT ,TI_7Y,0,NO,"Market yield on U.S. Treasury securities at 7-year   constant maturity, quoted on investment basis",0,INT_TI_7Y
+INT ,TI_10Y,0,NO,"Market yield on U.S. Treasury securities at 10-year   constant maturity, quoted on investment basis",0,INT_TI_10Y
+INT ,TI_20Y,0,NO,"Market yield on U.S. Treasury securities at 20-year   constant maturity, quoted on investment basis",0,INT_TI_20Y
+INT ,TI_30Y,0,NO,"Market yield on U.S. Treasury securities at 30-year   constant maturity, quoted on investment basis",0,INT_TI_30Y
+MISC ,CVI_SAL,0,NO,"Cuenta de viajeros internacionales, Saldo",0,MISC_CVI_SAL
+MISC ,VI_GT_ING,0,NO,"Viajeros Internacionales Gasto Total, Ingresos",0,MISC_VI_GT_ING
+MISC ,CVI_ING_TNF,0,NO,"Cuenta de viajeros internacionales, Ingresos, Turistas no fronterizos",0,MISC_CVI_ING_TNF
+MISC ,VI_FT_EG,0,NO,"Viajeros Internacionales Gasto Total, Egresos",0,MISC_VI_FT_EG
+MISC ,CVI_EG_TNF,0,NO,"Cuenta de viajeros internacionales, Egresos, Turistas no fronterizos",0,MISC_CVI_EG_TNF
+MISC ,CVI_NV_ING,0,NO,"Cuenta de viajeros internacionales, Número de viajeros, Ingresos",0,MISC_CVI_NV_ING
+MISC ,CVI_NV_ING_NF,0,NO,"Cuenta de viajeros internacionales, Número de viajeros, Ingresos, Turistas no fronterizos",0,MISC_CVI_NV_ING_NF
+MISC ,CVI_NV_EG,0,NO,"Cuenta de viajeros internacionales, Número de viajeros, Egresos",0,MISC_CVI_NV_EG
+MISC ,CVI_NV_EG_NF,0,NO,"Cuenta de viajeros internacionales, Número de viajeros, Egresos, Turistas no fronterizos",0,MISC_CVI_NV_EG_NF
+MISC ,CVI_GM_ING,0,NO,"Cuenta de viajeros internacionales, Gasto medio, Ingresos",0,MISC_CVI_GM_ING
+MISC ,CVI_GM_ING_NF,0,NO,"Cuenta de viajeros internacionales, Gasto medio, Ingresos, Turistas no fronterizos",0,MISC_CVI_GM_ING_NF
+MISC ,CVI_GM_EG,0,NO,"Cuenta de viajeros internacionales, Gasto medio, Egresos",0,MISC_CVI_GM_EG
+MISC ,CVI_GM_EG_NF,0,NO,"Cuenta de viajeros internacionales, Gasto medio, Egresos, Turistas no fronterizos",0,MISC_CVI_GM_EG_NF
+NEWS,EPU_USA,0,NO,Economic Policy Uncertanty USA ,0,NEWS_EPU_USA
+NEWS,EPU_USA_T0,0,NO,Economic Policy Uncertanty USA T0,0,NEWS_EPU_USA_T0
+NEWS,EPU_USA_T1,0,NO,Economic Policy Uncertanty USA T1,0,NEWS_EPU_USA_T1
+NEWS,EPU_USA_T2,0,NO,Economic Policy Uncertanty USA T2,0,NEWS_EPU_USA_T2
+NEWS,EPU_USA_T3,0,NO,Economic Policy Uncertanty USA T3,0,NEWS_EPU_USA_T3
+NEWS,EPU_USA_T4,0,NO,Economic Policy Uncertanty USA T4,0,NEWS_EPU_USA_T4
+NEWS,EPU_USA_T5,0,NO,Economic Policy Uncertanty USA T5,0,NEWS_EPU_USA_T5
+NEWS,EPU_USA_T6,0,NO,Economic Policy Uncertanty USA T6,0,NEWS_EPU_USA_T6
+NEWS,EPU_USA_T7,0,NO,Economic Policy Uncertanty USA T7,0,NEWS_EPU_USA_T7
+NEWS,EPU_MX,0,NO,Economic Policy Uncertanty Mexico ,0,NEWS_EPU_MX
+NEWS,EPU_MX_T0,0,NO,Economic Policy Uncertanty MX T0,0,NEWS_EPU_MX_T0
+NEWS,EPU_MX_T1,0,NO,Economic Policy Uncertanty MX T1,0,NEWS_EPU_MX_T1
+NEWS,EPU_MX_T2,0,NO,Economic Policy Uncertanty MX T2,0,NEWS_EPU_MX_T2
+NEWS,EPU_MX_T3,0,NO,Economic Policy Uncertanty MX T3,0,NEWS_EPU_MX_T3
+NEWS,EPU_MX_T4,0,NO,Economic Policy Uncertanty MX T4,0,NEWS_EPU_MX_T4
+NEWS,EPU_MX_T5,0,NO,Economic Policy Uncertanty MX T5,0,NEWS_EPU_MX_T5
+NEWS,EPU_MX_T6,0,NO,Economic Policy Uncertanty MX T6,0,NEWS_EPU_MX_T6
+NEWS,EPU_MX_T7,0,NO,Economic Policy Uncertanty MX T7,0,NEWS_EPU_MX_T7
+NEWS,GT_DOLAR,0,NO,Google trend tipo de cambio normalizado a media 100 sd de uno,0,NEWSGT_DOLAR
+NEWS,GT_RECESION,0,NO,Google trend crisis normalizado a media 100 sd de uno,0,NEWSGT_RECESION
+NEWS,GT_PAND,0,NO,Google trend pandemia normalizado a media 100 sd de uno,0,NEWSGT_PAND
